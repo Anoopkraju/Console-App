@@ -1,0 +1,14 @@
+C:\Users\Anoop\Desktop\VB\MethodAssignment\MethodAssignment\obj\Debug\net8.0\MethodAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anoop\Desktop\VB\MethodAssignment\MethodAssignment\obj\Debug\net8.0\MethodAssignment.AssemblyInfoInputs.cache
+C:\Users\Anoop\Desktop\VB\MethodAssignment\MethodAssignment\obj\Debug\net8.0\MethodAssignment.AssemblyInfo.cs
+C:\Users\Anoop\Desktop\VB\MethodAssignment\MethodAssignment\obj\Debug\net8.0\MethodAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Anoop\Desktop\VB\MethodAssignment\MethodAssignment\bin\Debug\net8.0\MethodAssignment.exe
+C:\Users\Anoop\Desktop\VB\MethodAssignment\MethodAssignment\bin\Debug\net8.0\MethodAssignment.deps.json
+C:\Users\Anoop\Desktop\VB\MethodAssignment\MethodAssignment\bin\Debug\net8.0\MethodAssignment.runtimeconfig.json
+C:\Users\Anoop\Desktop\VB\MethodAssignment\MethodAssignment\bin\Debug\net8.0\MethodAssignment.dll
+C:\Users\Anoop\Desktop\VB\MethodAssignment\MethodAssignment\bin\Debug\net8.0\MethodAssignment.pdb
+C:\Users\Anoop\Desktop\VB\MethodAssignment\MethodAssignment\obj\Debug\net8.0\MethodAssignment.dll
+C:\Users\Anoop\Desktop\VB\MethodAssignment\MethodAssignment\obj\Debug\net8.0\refint\MethodAssignment.dll
+C:\Users\Anoop\Desktop\VB\MethodAssignment\MethodAssignment\obj\Debug\net8.0\MethodAssignment.pdb
+C:\Users\Anoop\Desktop\VB\MethodAssignment\MethodAssignment\obj\Debug\net8.0\MethodAssignment.genruntimeconfig.cache
+C:\Users\Anoop\Desktop\VB\MethodAssignment\MethodAssignment\obj\Debug\net8.0\ref\MethodAssignment.dll
