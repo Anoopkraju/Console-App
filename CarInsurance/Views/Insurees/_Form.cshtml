@@ -1,0 +1,12 @@
+@model Insuree
+<div asp-validation-summary="ModelOnly"></div>
+<label asp-for="FirstName"></label><input asp-for="FirstName"/><span asp-validation-for="FirstName"></span>
+<label asp-for="LastName"></label><input asp-for="LastName"/><span asp-validation-for="LastName"></span>
+<label asp-for="EmailAddress"></label><input asp-for="EmailAddress"/><span asp-validation-for="EmailAddress"></span>
+<label asp-for="DateOfBirth"></label><input asp-for="DateOfBirth"/><span asp-validation-for="DateOfBirth"></span>
+<label asp-for="CarYear"></label><input asp-for="CarYear"/><span asp-validation-for="CarYear"></span>
+<label asp-for="CarMake"></label><input asp-for="CarMake"/><span asp-validation-for="CarMake"></span>
+<label asp-for="CarModel"></label><input asp-for="CarModel"/><span asp-validation-for="CarModel"></span>
+<label asp-for="SpeedingTickets"></label><input asp-for="SpeedingTickets"/><span asp-validation-for="SpeedingTickets"></span>
+<label class="check"><input asp-for="DUI"/> @Html.DisplayNameFor(m=>m.DUI)</label>
+<label class="check"><input asp-for="CoverageType"/> @Html.DisplayNameFor(m=>m.CoverageType)</label>

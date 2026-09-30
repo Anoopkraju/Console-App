@@ -1,0 +1,2 @@
+@model Insuree
+@{ViewData["Title"]="Delete";}<h1>Delete</h1><h3>Are you sure you want to delete this insuree?</h3><p><strong>@Model.FirstName @Model.LastName</strong><br/>@Model.EmailAddress<br/>Quote: @Model.Quote.ToString("C")</p><form asp-action="Delete"><input type="hidden" asp-for="Id"/><button type="submit">Delete</button> <a asp-action="Index">Cancel</a></form>

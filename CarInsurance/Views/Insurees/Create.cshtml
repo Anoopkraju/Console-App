@@ -1,0 +1,4 @@
+@model Insuree
+@{ViewData["Title"]="Create Quote";}
+<h1>Car Insurance Quote</h1><p>Enter the information below. Your monthly quote will be calculated automatically.</p>
+<form asp-action="Create" method="post"><partial name="_Form"/><button type="submit">Get Quote</button></form>
