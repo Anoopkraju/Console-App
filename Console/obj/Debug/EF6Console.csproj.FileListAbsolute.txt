@@ -1,0 +1,13 @@
+C:\Users\Anoop\Desktop\VB\EF6Console\EF6Console\bin\Debug\EF6Console.exe.config
+C:\Users\Anoop\Desktop\VB\EF6Console\EF6Console\bin\Debug\EF6Console.exe
+C:\Users\Anoop\Desktop\VB\EF6Console\EF6Console\bin\Debug\EF6Console.pdb
+C:\Users\Anoop\Desktop\VB\EF6Console\EF6Console\bin\Debug\EntityFramework.dll
+C:\Users\Anoop\Desktop\VB\EF6Console\EF6Console\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Anoop\Desktop\VB\EF6Console\EF6Console\bin\Debug\EntityFramework.xml
+C:\Users\Anoop\Desktop\VB\EF6Console\EF6Console\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Anoop\Desktop\VB\EF6Console\EF6Console\obj\Debug\EF6Console.csproj.AssemblyReference.cache
+C:\Users\Anoop\Desktop\VB\EF6Console\EF6Console\obj\Debug\EF6Console.csproj.CoreCompileInputs.cache
+C:\Users\Anoop\Desktop\VB\EF6Console\EF6Console\obj\Debug\EF6Console.csproj.Up2Date
+C:\Users\Anoop\Desktop\VB\EF6Console\EF6Console\obj\Debug\EF6Console.exe
+C:\Users\Anoop\Desktop\VB\EF6Console\EF6Console\obj\Debug\EF6Console.pdb
+C:\Users\Anoop\Desktop\VB\EF6Console\EF6Console\obj\Debug\EF6Console.exe.config
